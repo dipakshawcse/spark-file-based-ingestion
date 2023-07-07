@@ -1,0 +1,7 @@
+pyspark==3.1.2
+pyexcel==0.6.6
+pyexcel-xlsx==0.6.0
+pyexcel-io==0.6.4
+pyarrow==4.0.1
+fastavro==1.4.5
+xmltodict==0.12.0
